@@ -3,7 +3,7 @@ package javabook;
 public class c {
 
 	public static void main(String[] args) {
-		System.out.println("hello wr");
+		System.out.println("hello wrol");
 
 	}
 
